@@ -16,7 +16,8 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       backgroundColor: Colors.grey,
       appBar: AppBar(
-        title: const Text("Home Page"),
+        backgroundColor: Colors.white,
+        title: const Text("Diyor Page"),
       ),
       body: Container(
         decoration: const BoxDecoration(
